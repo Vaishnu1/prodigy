@@ -22,6 +22,7 @@ https://github.com/Vaishnu1/prodigy.git
 
 Navigate to the project directory:
 bash
+
 Copy code:
 cd responsive-landing-page
 
