@@ -14,13 +14,17 @@ Customizable: Easy to customize and extend with your own content, styles, and br
 
 Usage:
 Clone this repository to your local machine:
-https://github.com/Vaishnu1/prodigy.git
+gh repo clone Vaishnu1/prodigy
+
 bash
 Copy code:
+https://github.com/Vaishnu1/prodigy.git
+
 Navigate to the project directory:
 bash
 Copy code:
 cd responsive-landing-page
+
 Open the index.html file in your preferred code editor.
 Customize the content, styles, and images to suit your needs.
 Preview the page in your web browser to see how it looks on different devices.
