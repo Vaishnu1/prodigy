@@ -14,6 +14,7 @@ Customizable: Easy to customize and extend with your own content, styles, and br
 
 Usage:
 Clone this repository to your local machine:
+https://github.com/Vaishnu1/prodigy.git
 bash
 Copy code:
 Navigate to the project directory:
